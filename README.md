@@ -18,9 +18,6 @@ Layihə həm **Client**, həm də **Admin** hissələrindən ibarətdir.
 - `ClientLayout` yaradılmalıdır.  
 - Layout daxilində **Navbar (Home, About, Products)** və **Footer** olmalıdır.
 
-- <img width="932" height="593" alt="image" src="https://github.com/user-attachments/assets/9fda14a4-0963-4094-a2e3-73cad1e456ef" />
-
-
 #### Route-lar:
 - `/` → `HomePage` (salamlayan mətn göstərilməlidir)  
 - `/about` → `AboutPage`  
@@ -63,3 +60,6 @@ Backend üçün fake API istifadə olunmalıdır:
 - UI üçün `react-icons` istifadə edilməlidir.  
 
 ---
+
+- <img width="932" height="593" alt="image" src="https://github.com/user-attachments/assets/9fda14a4-0963-4094-a2e3-73cad1e456ef" />
+
